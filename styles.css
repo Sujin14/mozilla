@@ -367,7 +367,7 @@ p.learnmore {
 }
 
 .lang {
-    display: flex;
+    display: block;
     font-size: 12px;
     font-size: .75rem;
     line-height: 1.5;
